@@ -56,4 +56,4 @@ To deliver an interactive, app-like visual tool that:
 
 6. Screenshots / Demos
 
-[]
+[https://github.com/swabhimangandhale26-alt/Spotify-dahsboard/blob/main/Spotify%20Dashbaord.png]
